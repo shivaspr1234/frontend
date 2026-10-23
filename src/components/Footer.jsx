@@ -89,7 +89,7 @@ export default function Footer() {
                 
                   w-10 h-10
                   rounded-xl
-                  bg-white dark:bg-slate-900/5
+                  bg-purple-400 dark:bg-slate-900/5
                   border border-white/10
                   flex items-center
                   justify-center
@@ -108,7 +108,7 @@ export default function Footer() {
                 className="
                   w-10 h-10
                   rounded-xl
-                  bg-white dark:bg-slate-900/5
+                  bg-purple-400 dark:bg-slate-900/5
                   border border-white/10
                   flex items-center
                   justify-center
@@ -127,7 +127,7 @@ export default function Footer() {
                 className="
                   w-10 h-10
                   rounded-xl
-                  bg-white dark:bg-slate-900/5
+                  bg-purple-400 dark:bg-slate-900/5
                   border border-white/10
                   flex items-center
                   justify-center
@@ -146,7 +146,7 @@ export default function Footer() {
                 className="
                   w-10 h-10
                   rounded-xl
-                  bg-white dark:bg-slate-900/5
+                  bg-purple-400 dark:bg-slate-900/5
                   border border-white/10
                   flex items-center
                   justify-center
